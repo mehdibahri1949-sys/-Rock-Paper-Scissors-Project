@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Courses">
+      <UniqueIdentifier>{ea543b29-5972-4b02-bbcb-44beb0c23955}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\Course_5">
+      <UniqueIdentifier>{2ed5e195-7183-4b0c-8215-f7be729b53e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Courses\Course_5\Projects">
+      <UniqueIdentifier>{3ea08521-9ea4-4c09-9e0f-e656baf76bae}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Site_Courses _PROGRAMMING ADVICE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Project_1_MySolution_StonePaperScisor.cpp">
+      <Filter>Source Files\Courses\Course_5\Projects</Filter>
+    </ClCompile>
+    <ClCompile Include="Project_1_SolutionDoctor.cpp">
+      <Filter>Source Files\Courses\Course_5\Projects</Filter>
+    </ClCompile>
+    <ClCompile Include="Project_1_Rock-Paper-Scissor.cpp">
+      <Filter>Source Files\Courses\Course_5\Projects</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
